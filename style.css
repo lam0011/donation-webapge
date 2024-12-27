@@ -1,0 +1,175 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0
+}
+
+.back {
+    background: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+    margin-bottom: 16%;
+
+}
+
+.align {
+    text-align: center;
+}
+
+#head {
+    font-size: 100px;
+    color: rgb(255, 249, 249);
+}
+
+#text-size {
+    font-size: 30px;
+    color: white;
+    font-weight: 40px;
+
+}
+
+.donate {
+    text-decoration: none;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 15px;
+    margin-left: 40%;
+    background-color: #FF5959;
+
+}
+
+.money {
+    display: flex;
+    margin-left: 20%
+}
+
+.half-width {
+    padding: 40px 80px;
+
+
+
+
+}
+
+.box {
+    background-color: #FAFAFA;
+    margin: 20px;
+    border-radius: 10px
+}
+
+.ts {
+    font-size: 30px;
+}
+
+.divv {
+    padding: 10%;
+}
+
+.plan {
+    padding: 30px;
+}
+
+.items {
+    display: flex;
+
+
+}
+
+.half-widthh {
+    border-radius: 6px;
+    padding: 80px 30px;
+    margin: 10px;
+}
+
+.don {
+    display: flex;
+}
+
+.width {
+    width: 50%;
+    padding: 60px 150px;
+    margin-top: 80px;
+    margin-right: 150px;
+}
+
+.width img {
+    width: 150%;
+
+}
+
+.donatee {
+    text-decoration: none;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 8px;
+    background-color: #FF5959;
+
+}
+
+.get-my-updates {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.subscribe {
+    background-color: #FFF4D6;
+    padding-bottom: 150px;
+    padding-top: 20px;
+    height: 0%;
+    width: 55%;
+    margin-left: 25%;
+    margin-bottom: 100px;
+
+
+
+}
+
+#content {
+    margin-top: 100px;
+    margin-left: 300px;
+    display: flex;
+
+}
+
+#sub {
+    text-decoration: none;
+
+    padding: 0px 40px;
+    height: 50px;
+
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #FF5959;
+
+
+
+}
+
+.mail {
+    background-color: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    padding: 0px 150px;
+    height: 50px;
+
+
+
+}
+
+.footer {
+    background-color: black;
+    padding-bottom: 20px;
+    height: 250px;
+}
+
+#last {
+    text-align: center;
+}
+
+#be {
+    color: #FF5959;
+    font-style: oblique;
+    padding-top: 100px;
+    font-family: 'Pacifico', cursive;
+
+}
